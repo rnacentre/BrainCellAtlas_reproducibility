@@ -27,7 +27,7 @@ For label transfer to the Brain Cell Atlas, the documentation of scAnnot is avai
 
 
 ## Citation
-For citation and further information please refer to the Research Square preprint: 
+For citation and further information please refer to the Nature Medicine publication: 
 
 Chen, X., Huang, Y., Huang, L. et al. A brain cell atlas integrating single-cell transcriptomes across human brain regions. Nat Med 30, 2679–2691 (2024). https://doi.org/10.1038/s41591-024-03150-z
 
