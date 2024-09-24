@@ -2,7 +2,7 @@
 
 This repository contains Jupyter notebooks and codes to reproduce the results and figures published in the paper.
 
-"Brain Cell Atlas: An Integrative Ensemble of Cell Transcriptomes Across Human Brain Regions"
+"A brain cell atlas integrating single-cell transcriptomes across human brain regions"
 
 The web portal of Brain Cell Atlas together with all the datasets are publicly available at [www.braincellatlas.org](http://www.braincellatlas.org) and [mirror.braincellatlas.org](https://mirror.braincellatlas.org).
 
@@ -29,7 +29,7 @@ For label transfer to the Brain Cell Atlas, the documentation of scAnnot is avai
 ## Citation
 For citation and further information please refer to the Research Square preprint: 
 
-Chen, X. et al. Brain Cell Atlas: An integrative ensemble of cell transcriptomes across human brain regions. Research Square (2023) doi:10.21203/rs.3.rs-3221500/v1.
+Chen, X., Huang, Y., Huang, L. et al. A brain cell atlas integrating single-cell transcriptomes across human brain regions. Nat Med 30, 2679–2691 (2024). https://doi.org/10.1038/s41591-024-03150-z
 
 Thank you for your interest in our work. We hope you find the code and resources provided here useful in reproducing and building upon the findings of the Brain Cell Atlas project.
 
